@@ -1,3 +1,42 @@
 body {
-  background-color: azure;
+  background-color: rgb(176, 194, 149);
+}
+
+h3{
+  background-color: beige;
+  text-align: center;
+  color: blueviolet;
+  border: outset 1px brown;
+}
+
+#aboutme {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  font-weight: bolder;
+  /* border: darkblue 2px dotted; */
+  
+}
+#adsllc {
+  font-family: cursive;
+  color: white;
+  font-weight: bolder;
+  border: blue 3px dashed;
+}
+#mueller {
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-weight: bolder;
+  border: solid 1px palevioletred;
+}
+#mwp {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  font-weight: bolder;
+  border: salmon inset 4px ;
+}
+#muelalb {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-weight: bolder;
+  border: ridge peru 5px ;
 }
